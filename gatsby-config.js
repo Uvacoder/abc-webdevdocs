@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `GNU/Linux Reference Documentation`,
+    title: `WebDev Docs`,
     name: `WebDevDocs`,
-    siteUrl: `https://linuxdocs.netlify.com`,
+    siteUrl: `https://webdevdocsmaster.gatsbyjs.io`,
     description: `Reference documentation for web development, React, Gatsby and several technologies`,
     social: [
       {
         name: `github`,
-        url: `https://github.com/cheomanigua/`
+        url: `https://github.com/uvacoder/`
       },
       {
         name: `twitter`,
-        url: `https://twitter.com/Luminisense`
+        url: `https://twitter.com/AlecCam43544378`
       }
     ],
     sidebarConfig: {
